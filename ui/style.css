@@ -21,4 +21,11 @@ body {
 .img-medium {
     height: 200px;
 }
+footer{
+    display: block;
+    text-align: right;
+    color:red;
+    font-size:40px;
+    
+}
 

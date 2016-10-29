@@ -2,14 +2,13 @@ html{
       background: url(https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR9icALUsIenM7mboeC6w1h9bVmWys50iPzc4olcvTS7WhrbbRPPQ) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
+    -o-background-size: cover;
   background-size: cover;
 
 }
 body {
     font-family: sans-serif;
-    background-image: url("https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR9icALUsIenM7mboeC6w1h9bVmWys50iPzc4olcvTS7WhrbbRPPQ");
+
         background-repeat: no-repeat;
 
     margin-top: 75px;

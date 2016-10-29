@@ -22,15 +22,13 @@ body {
 .text-big {
     font-size: 300%;
 }
-img {
-    text-align:right;
-}
+
 .bold {
     font-weight: bold;
 }
 
 .img-medium {
-    height: 600px;
+    height: 100px;
 }
 footer{
     display: block;

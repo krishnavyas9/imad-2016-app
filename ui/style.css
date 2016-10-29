@@ -2,6 +2,8 @@
 body {
     font-family: sans-serif;
     background-image: url("https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR9icALUsIenM7mboeC6w1h9bVmWys50iPzc4olcvTS7WhrbbRPPQ");
+        background-repeat: no-repeat;
+
     margin-top: 75px;
 
 }

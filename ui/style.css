@@ -22,7 +22,9 @@ body {
 .text-big {
     font-size: 300%;
 }
-
+img {
+    text-align:right;
+}
 .bold {
     font-weight: bold;
 }
